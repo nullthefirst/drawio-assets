@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T09:19:14.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YZAOWWOM2REczCSLl1kM" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T11:13:37.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kdP7glzRn0sBS0dNZj72" version="20.0.1" type="github">
   <diagram id="AeL9MYX1-yMKB1paXlAs" name="Page-1">
-    <mxGraphModel dx="920" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,83 @@
         </mxCell>
         <mxCell id="idvZ-AL8KbC-7DriHXHI-27" value="Project Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-20">
           <mxGeometry y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-113" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="490" width="620" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-62" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-113">
+          <mxGeometry x="340" y="40" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-107" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-62">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-63" value="&lt;b&gt;Training screens&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-107">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-64" value="Conversational with&amp;nbsp;a case&lt;br&gt;study approach" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-107">
+          <mxGeometry x="65" y="50" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-75" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-113">
+          <mxGeometry x="50" y="220" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-110" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-75">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-76" value="&lt;b&gt;Grading screens&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-110">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-104" value="Conversational&lt;br&gt;with integrated assessments" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-110">
+          <mxGeometry x="60" y="50" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-79" value="" style="group;" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-113">
+          <mxGeometry x="340" y="220" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-112" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-79">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-80" value="&lt;b&gt;Competency&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-112">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-111" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-112">
+          <mxGeometry x="15" y="50" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-81" value="Skill ranking across&lt;br&gt;talent pool" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-111">
+          <mxGeometry width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-82" value="Competency mapping of skill combinations" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-111">
+          <mxGeometry x="120" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="idvZ-AL8KbC-7DriHXHI-113" source="idvZ-AL8KbC-7DriHXHI-39" target="idvZ-AL8KbC-7DriHXHI-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=140;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="idvZ-AL8KbC-7DriHXHI-113" source="idvZ-AL8KbC-7DriHXHI-63" target="idvZ-AL8KbC-7DriHXHI-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="200" />
+              <mxPoint x="190" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=85;exitPerimeter=0;entryX=0.471;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="idvZ-AL8KbC-7DriHXHI-113" source="idvZ-AL8KbC-7DriHXHI-39" target="idvZ-AL8KbC-7DriHXHI-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="idvZ-AL8KbC-7DriHXHI-113" source="idvZ-AL8KbC-7DriHXHI-76" target="idvZ-AL8KbC-7DriHXHI-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-106" value="High-level user flows" style="swimlane;labelBackgroundColor=none;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-113">
+          <mxGeometry width="620" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-109" value="" style="group" vertex="1" connectable="0" parent="idvZ-AL8KbC-7DriHXHI-106">
+          <mxGeometry x="50" y="40" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-39" value="&lt;b&gt;Homepage&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-109">
+          <mxGeometry width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-40" value="List of courses on skill roadmaps" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-109">
+          <mxGeometry x="20" y="50" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-43" value="Link to historical&lt;br&gt;skill&lt;br&gt;grades" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="idvZ-AL8KbC-7DriHXHI-109">
+          <mxGeometry x="140" y="50" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
