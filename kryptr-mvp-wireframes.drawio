@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T08:51:51.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="rgHb3a2o-evRa95POaAj" type="github"><diagram id="AeL9MYX1-yMKB1paXlAs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-14T09:00:18.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FPqszJPtT4Ese0wul0hL" version="20.0.1" type="github">
+  <diagram id="AeL9MYX1-yMKB1paXlAs" name="Page-1">
+    <mxGraphModel dx="920" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-4" value="Industry 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-5" value="Industry 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-6" value="Industry 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-7" value="Industry 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-8" value="Industry 5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-9" value="What are your top three&lt;br&gt;industries of interest?" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-10" value="Industry 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-11" value="&lt;b&gt;Submit&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="305" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idvZ-AL8KbC-7DriHXHI-13" value="Onboarding 1 (Industry)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="240" height="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
