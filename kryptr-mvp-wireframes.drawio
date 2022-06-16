@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T10:35:47.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8mnpDf4V2fR6rRX6XGT7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T12:40:54.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5GaTnZfj7lWAeIMvwxAk" version="20.0.1" type="github">
   <diagram id="AeL9MYX1-yMKB1paXlAs" name="Page-1">
-    <mxGraphModel dx="1203" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="idvZ-AL8KbC-7DriHXHI-43" value="Link to historical&lt;br&gt;skill&lt;br&gt;grades" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="idvZ-AL8KbC-7DriHXHI-109" vertex="1">
           <mxGeometry x="140" y="50" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-8" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-8" value="" style="group;fillColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="60" y="935" width="710" height="1245" as="geometry" />
         </mxCell>
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-31" value="Stakeholder interactions - process flow" style="swimlane;strokeWidth=2;fillColor=none;" parent="KfLe7CcXOgjWTEz4RqeP-8" vertex="1">
@@ -156,7 +156,7 @@
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-33" value="" style="group;fillColor=none;container=0;" parent="xbHeqQuu5qBBvkH0AwW2-31" vertex="1" connectable="0">
           <mxGeometry y="25" width="710" height="1225" as="geometry" />
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-7" value="" style="group" vertex="1" connectable="0" parent="KfLe7CcXOgjWTEz4RqeP-8">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-7" value="" style="group" parent="KfLe7CcXOgjWTEz4RqeP-8" vertex="1" connectable="0">
           <mxGeometry x="24.97" y="55" width="630.03" height="1169.9299999999998" as="geometry" />
         </mxCell>
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
@@ -174,7 +174,7 @@
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.453;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-3" target="xbHeqQuu5qBBvkH0AwW2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xbHeqQuu5qBBvkH0AwW2-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Career roles and job&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;skills per profession" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
+        <mxCell id="xbHeqQuu5qBBvkH0AwW2-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Career roles and job&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;skills per profession" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
           <mxGeometry x="355.03" y="210" width="204.97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-5" target="xbHeqQuu5qBBvkH0AwW2-6" edge="1">
@@ -183,7 +183,7 @@
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-11" value="&lt;span lang=&quot;EN-GB&quot;&gt;Create training &lt;br&gt;and grading materials&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
           <mxGeometry x="5.030000000000001" y="440" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xbHeqQuu5qBBvkH0AwW2-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Course content for&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;upload on platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
+        <mxCell id="xbHeqQuu5qBBvkH0AwW2-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;Course content for&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;upload on platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
           <mxGeometry x="375.03" y="440" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-11" target="xbHeqQuu5qBBvkH0AwW2-12" edge="1">
@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xbHeqQuu5qBBvkH0AwW2-21" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Market feedback on&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;skill combination&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;relevant for job roles" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
+        <mxCell id="xbHeqQuu5qBBvkH0AwW2-21" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Market feedback on&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;skill combination&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;relevant for job roles" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
           <mxGeometry x="370" y="789.9300000000001" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-20" target="xbHeqQuu5qBBvkH0AwW2-21" edge="1">
@@ -243,21 +243,174 @@
         <mxCell id="xbHeqQuu5qBBvkH0AwW2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-24" target="xbHeqQuu5qBBvkH0AwW2-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="KfLe7CcXOgjWTEz4RqeP-7" source="KfLe7CcXOgjWTEz4RqeP-1" target="xbHeqQuu5qBBvkH0AwW2-22">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="KfLe7CcXOgjWTEz4RqeP-1" target="xbHeqQuu5qBBvkH0AwW2-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-1" value="&lt;b&gt;Self starters/ Cohorts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="KfLe7CcXOgjWTEz4RqeP-7">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-1" value="&lt;b&gt;Self starters/ Cohorts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="KfLe7CcXOgjWTEz4RqeP-7" vertex="1">
           <mxGeometry x="215.03" y="560" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-12" target="KfLe7CcXOgjWTEz4RqeP-1">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-12" target="KfLe7CcXOgjWTEz4RqeP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470.03" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfLe7CcXOgjWTEz4RqeP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-22" target="KfLe7CcXOgjWTEz4RqeP-1">
+        <mxCell id="KfLe7CcXOgjWTEz4RqeP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="KfLe7CcXOgjWTEz4RqeP-7" source="xbHeqQuu5qBBvkH0AwW2-22" target="KfLe7CcXOgjWTEz4RqeP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="2910" width="230" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-99" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="2270" width="810" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-41" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-99">
+          <mxGeometry x="415" y="50" width="370" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-6" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;&lt;b&gt;Faculty&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-41">
+          <mxGeometry width="370" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-15" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-41">
+          <mxGeometry x="30" y="40" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-38" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-15">
+          <mxGeometry width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-7" value="&lt;b&gt;Training&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-38">
+          <mxGeometry width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-9" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Lesson title&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-38">
+          <mxGeometry x="95" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-13" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-38">
+          <mxGeometry x="40" y="90" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-36" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-13">
+          <mxGeometry width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-10" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Lesson content&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-36">
+          <mxGeometry width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-35" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-36">
+          <mxGeometry x="55" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-11" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Content image&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-35">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-12" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Content text&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-35">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-34" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-41">
+          <mxGeometry x="30" y="305" width="310" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-17" value="&lt;b&gt;Grading&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-34">
+          <mxGeometry width="310" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-18" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Lesson title&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-34">
+          <mxGeometry x="95" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-31" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-34">
+          <mxGeometry x="40" y="245" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-24" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;&lt;br&gt;Assessment&lt;br&gt;exercises&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-31">
+          <mxGeometry width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-30" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-31">
+          <mxGeometry x="42.5" y="50" width="145" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-25" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Questiont text&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-30">
+          <mxGeometry x="12.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-26" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Checkboxes&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-30">
+          <mxGeometry x="12.5" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-27" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Radio buttons&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-30">
+          <mxGeometry x="12.5" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-29" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Match concept&lt;br&gt;to description&lt;br&gt;&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-30">
+          <mxGeometry y="120" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-33" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-34">
+          <mxGeometry x="40" y="90" width="230" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-20" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Lesson content&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-33">
+          <mxGeometry width="230" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-28" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-33">
+          <mxGeometry x="55" y="35" width="120" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-21" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Content image&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-28">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-22" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Content text&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-28">
+          <mxGeometry y="42.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-82" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-99">
+          <mxGeometry x="20" y="50" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-1" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;&lt;b&gt;Learner journey&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-82">
+          <mxGeometry width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-2" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Career level&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-82">
+          <mxGeometry x="50" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-3" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Skills&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-82">
+          <mxGeometry x="125" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-5" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Profession&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-82">
+          <mxGeometry x="200" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-96" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-99">
+          <mxGeometry x="20" y="220" width="370" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-43" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;&lt;b&gt;Hiring partners&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-96">
+          <mxGeometry width="370" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-87" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-96">
+          <mxGeometry x="100" y="150" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-74" value="&lt;b&gt;Job roles&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-87">
+          <mxGeometry width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-75" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Skills per role&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-87">
+          <mxGeometry x="25" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-92" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-96">
+          <mxGeometry x="30" y="270" width="310" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-56" value="&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-92">
+          <mxGeometry width="310" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-57" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Logo&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-92">
+          <mxGeometry x="95" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-83" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Location&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-92">
+          <mxGeometry x="95" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-91" value="" style="group" vertex="1" connectable="0" parent="cA_sj1kVAQg2rcUuJ-h1-92">
+          <mxGeometry x="40" y="160" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-59" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Employment&lt;br&gt;type&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-91">
+          <mxGeometry width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-61" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Remote&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-91">
+          <mxGeometry x="55" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-62" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;On-site&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-91">
+          <mxGeometry x="55" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-63" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;Hybrid&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-91">
+          <mxGeometry x="55" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-70" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Name&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=0" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-96">
+          <mxGeometry x="125" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-71" value="&lt;span style=&quot;color: rgb(42, 46, 52); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Industry&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=0" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-96">
+          <mxGeometry x="125" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cA_sj1kVAQg2rcUuJ-h1-97" value="Dynamic content - data models" style="swimlane;labelBackgroundColor=none;" vertex="1" parent="cA_sj1kVAQg2rcUuJ-h1-99">
+          <mxGeometry width="810" height="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
